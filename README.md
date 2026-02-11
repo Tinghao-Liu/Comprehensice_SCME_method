@@ -25,6 +25,14 @@ This MATLAB implementation is based on the following peer-reviewed work:
 📌 **Proper citation of the above paper is required for any use in scientific publications.**
 
 ---
+## Application Scenarios
+This code implements all case studies presented in the manuscript, including:
+1. Compresural beams;
+1. Tensural beams;
+1. Large deformation compliant bistable mechanisms;
+1. General lumped-compliance beams;
+1. Initially curved beams.
+---
 
 ## Usage and License
 
